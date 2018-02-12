@@ -1,0 +1,61 @@
+hey guys so these commands are not from me i got them out of a modpack from Hemaxhu.<-- all credits to him 
+i dont know how to set the once for sniper yet so its all guns no snipers but you can change the x y z axels to what ever your liking is 
+you can change them ingame dont have to be in menu for it.
+have fun ;D 
+
+
+<Shotguns>
+                    set GD_Weap_Shotgun.A_Weapons.WT_Torgue_Shotgun PlayerViewOffset (X=32.500000,Y=4.000000,Z=-1.000000)
+
+                    set GD_Weap_Shotgun.A_Weapons.WT_Jakobs_Shotgun PlayerViewOffset (X=32.500000,Y=4.000000,Z=-1.000000)
+
+                    set GD_Weap_Shotgun.A_Weapons.WT_Tediore_Shotgun PlayerViewOffset (X=32.500000,Y=4.000000,Z=-1.000000)
+
+                    set GD_Weap_Shotgun.A_Weapons.WT_Hyperion_Shotgun PlayerViewOffset (X=32.500000,Y=4.000000,Z=-1.000000)
+
+                    set GD_Weap_Shotgun.A_Weapons.WT_Bandit_Shotgun PlayerViewOffset (X=32.500000,Y=4.000000,Z=-1.000000)
+
+
+<Ar´s>
+                    set GD_Weap_AssaultRifle.A_Weapons.WT_Dahl_AssaultRifle PlayerViewOffset (X=30.000000,Y=4.000000,Z=2.000000)
+
+                    set GD_Weap_AssaultRifle.A_Weapons.WT_Bandit_AssaultRifle PlayerViewOffset (X=30.000000,Y=4.000000,Z=2.000000)
+
+                    set GD_Weap_AssaultRifle.A_Weapons.WT_Torgue_AssaultRifle PlayerViewOffset (X=30.000000,Y=4.000000,Z=2.000000)
+
+                    set GD_Weap_AssaultRifle.A_Weapons.WT_Jakobs_AssaultRifle PlayerViewOffset (X=30.000000,Y=4.000000,Z=2.000000)
+
+                    set GD_Weap_AssaultRifle.A_Weapons.WT_Vladof_AssaultRifle PlayerViewOffset (X=30.000000,Y=4.000000,Z=2.000000)
+
+
+                    set GD_Weap_Shotgun.A_Weapons.WT_Jakobs_Shotgun FirstPersonMeshFOV 51
+
+
+<Launchers>
+                    set GD_Weap_Launchers.A_Weapons.WT_Bandit_Launcher PlayerViewOffset (X=52.000000,Y=8.000000,Z=-2.000000)
+
+                    set GD_Weap_Launchers.A_Weapons.WT_Torgue_Launcher PlayerViewOffset (X=52.000000,Y=8.000000,Z=-2.000000)
+
+                    set GD_Weap_Launchers.A_Weapons.WT_Maliwan_Launcher PlayerViewOffset (X=52.000000,Y=8.000000,Z=-2.000000)
+
+                    set GD_Weap_Launchers.A_Weapons.WT_Tediore_Launcher PlayerViewOffset (X=52.000000,Y=8.000000,Z=-2.000000)
+
+                    set GD_Weap_Launchers.A_Weapons.WT_Vladof_Launcher PlayerViewOffset (X=52.000000,Y=8.000000,Z=-2.000000)
+
+
+
+<Pistols>
+                    set GD_Weap_Pistol.A_Weapons.WeaponType_Torgue_Pistol PlayerViewOffset (X=50.000000,Y=8.000000,Z=0.000000)
+
+                    set GD_Weap_Pistol.A_Weapons.WeaponType_Vladof_Pistol PlayerViewOffset (X=50.000000,Y=8.000000,Z=0.000000)
+
+                    set GD_Weap_Pistol.A_Weapons.WeaponType_Hyperion_Pistol PlayerViewOffset (X=50.000000,Y=8.000000,Z=0.000000)
+
+                    set GD_Weap_Pistol.A_Weapons.WeaponType_Jakobs_Pistol PlayerViewOffset (X=50.000000,Y=8.000000,Z=0.000000)
+
+                    set GD_Weap_Pistol.A_Weapons.WeaponType_Dahl_Pistol PlayerViewOffset (X=50.000000,Y=8.000000,Z=0.000000)
+
+                    set GD_Weap_Pistol.A_Weapons.WeaponType_Maliwan_Pistol PlayerViewOffset (X=50.000000,Y=8.000000,Z=0.000000)
+
+                    set GD_Weap_Pistol.A_Weapons.WeaponType_Bandit_Pistol PlayerViewOffset (X=50.000000,Y=8.000000,Z=0.000000)
+
